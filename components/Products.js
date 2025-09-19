@@ -84,9 +84,6 @@ const Products = () => {
                       <p className="text-[16px] text-[#666] mt-[10px]">
                         {item.description}
                       </p>
-                      <div className="rating mt-[10px]">
-                        <span className="text-[14px]">{item.rating}</span>
-                      </div>
                     </div>
                     <a
                       className="orido_tm_full_link absolute inset-0 z-[5] zoom"

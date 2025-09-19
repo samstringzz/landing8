@@ -85,17 +85,6 @@ const Gallery = () => {
                         data-img-url={item.img}
                       />
                     </div>
-                    <div className="details w-full float-left mt-[30px]">
-                      <span className="category text-[20px] inline-block mb-[13px]">
-                        {item.category}
-                      </span>
-                      <h3 className="title text-[32px] tracking-[-1px] font-medium">
-                        <span className="inline-block relative">{item.title}</span>
-                      </h3>
-                      <p className="text-[16px] text-[#666] mt-[10px]">
-                        {item.description}
-                      </p>
-                    </div>
                     <a
                       className="orido_tm_full_link absolute inset-0 z-[5] zoom"
                       href={item.img}
