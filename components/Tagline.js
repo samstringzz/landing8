@@ -50,8 +50,8 @@ const Tagline = () => {
                   target="_blank" 
                   rel="noopener noreferrer"
                   style={{
-                    width: '120px',
-                    height: '120px',
+                    width: '80px',
+                    height: '80px',
                     border: '3px solid white',
                     borderRadius: '50%',
                     display: 'flex',
@@ -87,8 +87,8 @@ const Tagline = () => {
                   target="_blank" 
                   rel="noopener noreferrer"
                   style={{
-                    width: '120px',
-                    height: '120px',
+                    width: '80px',
+                    height: '80px',
                     border: '3px solid white',
                     borderRadius: '50%',
                     display: 'flex',
